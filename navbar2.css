@@ -1,0 +1,30 @@
+.navbar2
+{
+    width: 98%;
+    height: 120px;
+    margin: 10px auto 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: white;
+    border-radius: 5px;
+}
+.contents
+{
+    width: 120px;
+    height: 125;
+    display: flex;
+    flex-direction: column;
+   justify-content: center;
+   align-items: center;
+}
+.contents img
+{
+    width: 100px;
+    border-radius: 9px;
+    height: 70px;
+}
+.contents h4
+{
+    margin: 8px 0 0 0;
+}
